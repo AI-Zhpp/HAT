@@ -27,14 +27,21 @@ If you have any problems. Please concat the first author:
 guowenzhang@hotmail.com
 
 ########################################################
+
 If you find this code help you, please cite our paper
 
 @inproceedings{zhang2021hat,
+
   title={Hat: Hierarchical aggregation transformers for person re-identification},
+  
   author={Zhang, Guowen and Zhang, Pingping and Qi, Jinqing and Lu, Huchuan},
+  
   booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  
   pages={516--525},
+  
   year={2021}
+  
 }
 
 
